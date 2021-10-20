@@ -6,7 +6,7 @@ let items =  [
         price: 3000
     },
     {
-        id: 0,
+        id: 1,
         name: "Deluxe iPad",
         description: "yeah im thinking this is right",
         price: 200
